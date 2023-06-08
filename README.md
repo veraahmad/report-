@@ -9,3 +9,6 @@ git clone
 https://github.com/veraahmad/report-.git
 
 cd report-
+
+
+python report-.py
